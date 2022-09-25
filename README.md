@@ -1,2 +1,2 @@
 # Gmail-Bot
-This a Gmail Bot in Python using the smtplib library 
+This Gmail bot was created using the Python smtplib package, which allows us to send emails.
